@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wprowadzenie_9_10_2025</string>
+    <string name="front_panel">Rejestracja</string>
+    <string name="email_panel">Wprowadz e-mail</string>
+    <string name="password_panel">Wprowadz hasło</string>
+    <string name="repeat_password_panel">Wprowadz ponownie hasło</string>
+    <string name="accept_button">zatwierdź</string>
+
+</resources>
